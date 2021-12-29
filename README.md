@@ -1,5 +1,5 @@
-### Olá sou  Darci
-Sejam ttodos bem-vindo
+### Olá sou  o  Darci
+Sejam todos bem-vindo
 <!--
 **DarciRodrigues/DarciRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
