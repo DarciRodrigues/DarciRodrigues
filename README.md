@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 ### Olá,me chamo Darci
 Sejam todos Bem-Vindos ao meu Github 
+
 
 <!--
 **DarciRodrigues/DarciRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
