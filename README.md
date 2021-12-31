@@ -1,7 +1,6 @@
 ### Olá,me chamo Darci
 Sejam todos Bem-Vindos ao meu Github 
 
-    <video title="vimeo-player" src="https://player.vimeo.com/video/161031549?h=cb7ff46d61" width="640" height="360" frameborder="0" allowfullscreen></video>
 <!--
 **DarciRodrigues/DarciRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
