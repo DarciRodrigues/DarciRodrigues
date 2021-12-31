@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Olá,me chamo Darci
 Sejam todos Bem-Vindos ao meu Github 
 
