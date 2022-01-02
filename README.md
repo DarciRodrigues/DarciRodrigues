@@ -5,9 +5,6 @@ Sejam todos Bem-Vindos ao meu Github
 <img src="img/giphy.gif"/>
 </div>
 
-<div style="diplay: inline_block">
-<img src="img/giphy.gif"/>
-</div>
 <!--
 **DarciRodrigues/DarciRodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
